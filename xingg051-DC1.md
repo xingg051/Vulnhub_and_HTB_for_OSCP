@@ -25,7 +25,7 @@ run
 
 就能拿到一个www的shell
 
-![在这里插入图片描述](https://img-blog.csdnimg.cn/2020010120470786.png)
+![](https://img-blog.csdnimg.cn/2020010120470786.png)
 
 进去之后查看文件发现数据库密码
 
